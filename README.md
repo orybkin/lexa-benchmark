@@ -1,10 +1,8 @@
-# Lexa-Benchmark
+# LEXA Benchmark
 
-Codebase for the self-supervised goal reaching benchmark introduced in 'Discovering and Achieving Goals via World Models'.  
+Codebase for the self-supervised goal reaching benchmark introduced in the [LEXA paper](https://github.com/orybkin/lexa) (Discovering and Achieving Goals via World Models, NeurIPS 2021).
 
 <img src="https://russellmendonca.github.io/data/lexa_benchmark.png" width="1000">
-
-
 
 
 ## Setup
