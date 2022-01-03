@@ -22,6 +22,9 @@ Please follow these [instructions][mujoco_instr] to install mujoco
 
 [mujoco_instr]: https://github.com/openai/mujoco-py#install-mujoco
 
+## Usage 
+
+**WARNING!** The success criteria defined in this benchmark should not be used as a reward for the agent. The criteria were tuned to roughly match human intuition, but produce some false positives, which the agent can exploit if it observes the success variable. 
 
 ## Bibtex
 If you find this code useful, please cite:
